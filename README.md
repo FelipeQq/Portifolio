@@ -1,6 +1,8 @@
 # Portifólio
 Este é o nosso portfólio profissional, de trabalhos e projetos codificados pela [Sistemas Global](http://sistemasglobal.com.br)
 
+![Lojas Virtuais-BR](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portifolio_lojasvirtuas_br.png "Lojas Virtuais-BR")
+
 ![Alsec](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portifolio_alsec.png "Alsec")
 
 ![AdCanoas](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portifolio_adcanoas.jpg "AdCanoas")
