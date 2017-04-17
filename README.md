@@ -1,6 +1,10 @@
 # Portifólio
 Este é o nosso portfólio profissional, de trabalhos e projetos codificados pela [Sistemas Global](http://sistemasglobal.com.br)
 
+![Agência Palandi](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portfolio_agenciapalandi.png "Agência Palandi")
+
+![Adriana Teixeira Fotografia](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portfolio_adrianateixeirafotografia.png "Adriana Teixeira Fotografia")
+
 ![Lojas Virtuais-BR](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portifolio_lojasvirtuas_br.png "Lojas Virtuais-BR")
 
 ![Alsec](https://raw.githubusercontent.com/GlobalSistemasWeb/portifolio/master/portifolio_alsec.png "Alsec")
